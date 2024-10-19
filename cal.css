@@ -1,0 +1,12 @@
+button{
+    width: 100px;
+    height: 100px;
+    background-color: hsl(0, 0%, 30%);
+    color: white;
+    border-radius: 50px;
+    border: none;
+
+}
+button:hover{
+    background-color: hsl(0, 0%, 50%);
+}
